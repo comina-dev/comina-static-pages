@@ -9,8 +9,11 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@tailwindcss/vite": "^4.3.3",
     "prettier": "^3.8.1",
     "prettier-plugin-svelte": "^3.5.1",
+    "tailwindcss": "^4.3.3",
     "turbo": "^2.10.7"
   },
   "packageManager": "pnpm@11.18.0",

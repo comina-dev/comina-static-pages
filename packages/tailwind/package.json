@@ -1,0 +1,7 @@
+{
+  "name": "@repo/tailwind",
+  "private": true,
+  "exports": {
+    "./app.css": "./app.css"
+  }
+}
